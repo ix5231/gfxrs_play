@@ -1,0 +1,8 @@
+[package]
+name = "gfxrs_play"
+version = "0.1.0"
+authors = ["Ix5231 <ix5231@gmail.com>"]
+license = "CC0-1.0"
+
+[dependencies]
+gfx = "0.16.0"
